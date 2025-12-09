@@ -1,3 +1,4 @@
+# finding data types of variables
 x = "Ram"
 y = 23
 z = 23.45
