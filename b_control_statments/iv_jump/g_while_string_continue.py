@@ -1,3 +1,4 @@
+# Example of a while loop with a continue statement
 # displays Ram, Sita, Hari
 names = ["Ram", "Sita", "Hari", "Gita","Nita","Mina","Tina","Zina"]
 i = 0

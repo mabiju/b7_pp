@@ -1,3 +1,4 @@
+# Example of a for loop with a break statement
 for x in range(6):
     """ # prints numbers from 0 to 5, breaks when x is 3
     print(x)
